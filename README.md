@@ -21,12 +21,12 @@ Hello! I'm Aryan S. Bhardwaj, a tech enthusiast with a deep interest in AI, Mach
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
 </p>
 
-## Resume:[Resume](https://drive.google.com/file/d/1yQO1dQct2BMq6huqSvDYerUrVCGj2_sY/view?usp=drive_link)
+## Resume: [My Jedi Holocron (Resume)](https://drive.google.com/file/d/1yQO1dQct2BMq6huqSvDYerUrVCGj2_sY/view?usp=drive_link)
 
 ## Connect with me
 - [LinkedIn](https://linkedin.com/in/aryannnb1)
 - 🔭 I’m currently working on **AI-powered Smart Glasses for Visually Impaired & F1 2025 Season Prediction Model**  
 - 🌱 I’m currently exploring **AI Agents & Edge AI**  
 - 👯 I’m looking to collaborate on **Autonomous Systems, Generative AI & AI-driven Analytics**  
-- 💬 Ask me about **AI, ML, Computer Vision, NLP & F1!**  
+- 💬 Ask me about **AI, ML, Computer Vision, NLP & Football!**  
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aryanb03/) | [GitHub](https://github.com/aryannnb1)  
