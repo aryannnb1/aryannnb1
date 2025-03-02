@@ -21,7 +21,7 @@ Hello! I'm Aryan S. Bhardwaj, a tech enthusiast with a deep interest in AI, Mach
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
 </p>
 
-## Resume: [Arkham Inmate Records: Aryan Bhardwaj](https://drive.google.com/file/d/1yQO1dQct2BMq6huqSvDYerUrVCGj2_sY/view?usp=drive_link)
+## Resume: [Arkham Inmate Records: Aryan Bhardwaj](https://drive.google.com/file/d/1dQLnjo80LVO94duMvnjL5PsZqv_uazak/view?usp=drive_link)
 
 ## Connect with me
 - 🔭 I’m currently working on **AI-powered Smart Glasses for Visually Impaired & F1 2025 Season Prediction Model**  
