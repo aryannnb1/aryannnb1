@@ -28,4 +28,4 @@ Hello! I'm Aryan S. Bhardwaj, a tech enthusiast with a deep interest in AI, Mach
 - 🌱 I’m currently exploring **AI Agents & Edge AI**  
 - 👯 I’m looking to collaborate on **Autonomous Systems, Generative AI & AI-driven Analytics**  
 - 💬 Ask me about **AI, ML, Computer Vision, NLP & Football!**  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aryanb03/) | [GitHub](https://github.com/aryannnb1)  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aryanb03/)  
