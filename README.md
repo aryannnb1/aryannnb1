@@ -24,7 +24,7 @@ Hello! I'm Aryan S. Bhardwaj, a tech enthusiast with a deep interest in AI, Mach
 ## Resume: [Arkham Inmate Records: Aryan Bhardwaj](https://drive.google.com/file/d/1dQLnjo80LVO94duMvnjL5PsZqv_uazak/view?usp=drive_link)
 
 ## Connect with me
-- 🔭 I’m currently working on **an OCR and translational model to decode and translate Tamil Brahmi scripts. AAND F1 2025 Season Prediction Model :)**  
+- 🔭 I’m currently working on **an OCR and translational model to decode and translate Tamil Brahmi scripts.**  
 - 🌱 I’m currently exploring **AI Agents & Edge AI**  
 - 👯 I’m looking to collaborate on **Autonomous Systems, Generative AI & AI-driven Analytics**  
 - 💬 Ask me about **AI, ML, Computer Vision, NLP & Football!**  
