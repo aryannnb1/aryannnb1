@@ -6,6 +6,7 @@
 Hello! I'm Aryan S. Bhardwaj, a tech enthusiast with a deep interest in AI, Machine Learning, and Data Science. I have a background in Electronics and Communication Engineering from IIITDM Kancheepuram. I love exploring new technologies and applying them to solve real-world problems.
 
 ## Tech Stack
+## Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
@@ -19,6 +20,7 @@ Hello! I'm Aryan S. Bhardwaj, a tech enthusiast with a deep interest in AI, Mach
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/NLTK-3C9CD7?style=for-the-badge&logo=nltk&logoColor=white" alt="NLTK" />
 </p>
 
 ## Resume: [Arkham Inmate Records: Aryan Bhardwaj](https://drive.google.com/file/d/1dQLnjo80LVO94duMvnjL5PsZqv_uazak/view?usp=drive_link)
