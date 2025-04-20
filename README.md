@@ -22,7 +22,7 @@ Hello! I'm Aryan S. Bhardwaj, a tech enthusiast with a deep interest in AI, Mach
   <a href="https://www.nltk.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/NLTK-3C9CD7?style=for-the-badge&logo=nltk&logoColor=white" alt="NLTK" /> </a>
 </p>
 
-## 📄 Resume[Aryan Bhardwaj](https://drive.google.com/file/d/1GzfPKFJXhFcxTO0NzQbq_r3_S0rwpRcT/view?usp=sharing)
+## 📄 Resume [Aryan Bhardwaj](https://drive.google.com/file/d/1GzfPKFJXhFcxTO0NzQbq_r3_S0rwpRcT/view?usp=sharing)
 
 ## Connect with me
 - 🔭 I’m currently working on **an OCR and translational model to decode and translate Tamil Brahmi scripts.**  
