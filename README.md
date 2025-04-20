@@ -23,7 +23,7 @@ Hello! I'm Aryan S. Bhardwaj, a tech enthusiast with a deep interest in AI, Mach
 </p>
 
 ## 📄 Resume
-[Click here to view my resume](https://drive.google.com/file/d/1GzfPKFJXhFcxTO0NzQbq_r3_S0rwpRcT/view?usp=sharing)
+[Resume: Aryan Bhardwaj](https://drive.google.com/file/d/1GzfPKFJXhFcxTO0NzQbq_r3_S0rwpRcT/view?usp=sharing)
 
 ## Connect with me
 - 🔭 I’m currently working on **an OCR and translational model to decode and translate Tamil Brahmi scripts.**  
